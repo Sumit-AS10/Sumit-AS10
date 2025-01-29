@@ -1,14 +1,20 @@
-- 👋 Hi Data Nerds, My Name Is "Sumit"
-- 👀 I’m looking for a Position of Data Analyst and want to 🌊"Deep Dive" In Data Field
-- 🌱 I'm learning about Industry than Tools,
-      Because I'm Fascinating to ✏️ write queries for "Data exploration" 
- 💪 - > MySQL
- 💪 - > Microsoft SQL Server
- 💪- > PostgreSQL
-with - > Microsoft Excel 📄 for "Data cleansing"
-    & Microsoft PowerBI for "ETL" and "Dashboard" 💻 for decision-making.
-- 🦩I like paying attention
-- ⌚Patience is a key to show the right thing on right place.
+About Me
+
+Hi, I'm Sumit—a self-made Data Analyst with the right skills and domain expertise to drive impactful insights.
+
+**Technical Expertise 👇**
+
+✅I specialize in **SQL**, crafting complex queries by breaking down problems into manageable parts and optimizing them for maximum efficiency. 
+
+✅When it comes to data automation and cleaning, I leverage **Power Query** (**Excel** & **Power BI**) and Python to streamline workflows and ensure data accuracy.
+
+✅For Exploratory Data Analysis (EDA), I excel at handling large datasets using **Python**, uncovering meaningful trends and patterns. 
+
+✅To communicate my findings effectively, I utilize **Power BI**, making data-driven insights accessible to both technical and non-technical audiences.
+
+🧠**Domain Expertise 👇**
+
+My expertise lies in the **E-commerce** and **Quick-Commerce industries**. I focus on **customer segmentation and retention strategies**, identifying key user behaviors to drive engagement and business growth. By aligning my technical skills with industry knowledge, I optimize decision-making processes and contribute to sustainable business success.
 
 - 📫 How to reach me on my LinkedIn https://www.linkedin.com/in/sumitsingh-as10/
 
