@@ -17,6 +17,7 @@ Hi, I'm Sumit—a self-made Data Analyst with the right skills and domain expert
 My expertise lies in the **E-commerce** and **Quick-Commerce industries**. I focus on **customer segmentation and retention strategies**, identifying key user behaviors to drive engagement and business growth. By aligning my technical skills with industry knowledge, I optimize decision-making processes and contribute to sustainable business success.
 
 - 📫 How to reach me on my LinkedIn https://www.linkedin.com/in/sumitsingh-as10/
+- Would you like to see my real-world work samples, checkout my portfolio: https://determined-catshark-b1d.notion.site/Welcome-to-my-portfolio-18f07e89af7280039316dd73c138b413
 
 <!---
 Sumit-AS10/Sumit-AS10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
